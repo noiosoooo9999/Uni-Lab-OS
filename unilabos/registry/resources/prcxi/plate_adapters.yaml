@@ -1,6 +1,7 @@
 PRCXI_30mm_Adapter:
   category: 
   - prcxi
+  - plate_adapters
   class:
     module: unilabos.devices.liquid_handling.prcxi.prcxi_labware:PRCXI_30mm_Adapter
     type: pylabrobot
@@ -13,6 +14,7 @@ PRCXI_30mm_Adapter:
 PRCXI_Adapter:
   category: 
    - prcxi
+   - plate_adapters
   class:
     module: unilabos.devices.liquid_handling.prcxi.prcxi_labware:PRCXI_Adapter
     type: pylabrobot
@@ -25,6 +27,7 @@ PRCXI_Adapter:
 PRCXI_Deep10_Adapter:
   category: 
   - prcxi
+  - plate_adapters
   class:
     module: unilabos.devices.liquid_handling.prcxi.prcxi_labware:PRCXI_Deep10_Adapter
     type: pylabrobot
@@ -37,6 +40,7 @@ PRCXI_Deep10_Adapter:
 PRCXI_Deep300_Adapter:
   category: 
   - prcxi
+  - plate_adapters
   class:
     module: unilabos.devices.liquid_handling.prcxi.prcxi_labware:PRCXI_Deep300_Adapter
     type: pylabrobot
@@ -49,6 +53,7 @@ PRCXI_Deep300_Adapter:
 PRCXI_PCR_Adapter:
   category: 
   - prcxi
+  - plate_adapters
   class:
     module: unilabos.devices.liquid_handling.prcxi.prcxi_labware:PRCXI_PCR_Adapter
     type: pylabrobot
@@ -61,6 +66,7 @@ PRCXI_PCR_Adapter:
 PRCXI_Reservoir_Adapter:
   category: 
   - prcxi
+  - plate_adapters
   class:
     module: unilabos.devices.liquid_handling.prcxi.prcxi_labware:PRCXI_Reservoir_Adapter
     type: pylabrobot
@@ -73,6 +79,7 @@ PRCXI_Reservoir_Adapter:
 PRCXI_Tip10_Adapter:
   category:
   - prcxi
+  - plate_adapters
   class:
     module: unilabos.devices.liquid_handling.prcxi.prcxi_labware:PRCXI_Tip10_Adapter
     type: pylabrobot
@@ -85,6 +92,7 @@ PRCXI_Tip10_Adapter:
 PRCXI_Tip1250_Adapter:
   category:
   - prcxi
+  - plate_adapters
   class:
     module: unilabos.devices.liquid_handling.prcxi.prcxi_labware:PRCXI_Tip1250_Adapter
     type: pylabrobot
@@ -97,6 +105,7 @@ PRCXI_Tip1250_Adapter:
 PRCXI_Tip300_Adapter:
   category:
   - prcxi
+  - plate_adapters
   class:
     module: unilabos.devices.liquid_handling.prcxi.prcxi_labware:PRCXI_Tip300_Adapter
     type: pylabrobot
